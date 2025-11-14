@@ -1,0 +1,1 @@
+![[Pinto/Facultad/Diseño de Sistemas/TFI/Diagramas/Despliegue.png]]
